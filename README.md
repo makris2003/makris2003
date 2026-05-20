@@ -1,25 +1,6 @@
 <h1 align="center">Hey! 👋</h1>
 
-<p align="center">
-  <b>ECE Student @ NTUA &nbsp;·&nbsp; AI/ML Researcher &nbsp;·&nbsp; Full-Stack Developer</b>
-</p>
-
-<p align="center">
-  <a href="mailto:geomakris9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-• &nbsp;Final-year **Electrical & Computer Engineering** student at NTUA — Computer Science Track  
-• &nbsp;**Thesis** at the AI & Learning Systems Lab — emotion classification in expressive violin performance using audio transformers  
-• &nbsp;Passionate about **AI/ML**, audio deep learning, and building full-stack products  
-• &nbsp;Classically trained violinist
-
+I'm a final-year Electrical & Computer Engineering student at NTUA (Computer Science Track) and a classically trained violinist. For my thesis at the AI & Learning Systems Lab, I'm bringing these two worlds together by using audio transformers for emotion classification in expressive violin performances. Beyond audio deep learning, I'm deeply passionate about broader AI/ML and building full-stack products.
 ## Tech Stack
 
 **AI & Machine Learning**
