@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋</h1>
+<h1 align="left">Hey! 👋</h1>
 
 I'm a final-year Electrical & Computer Engineering student at NTUA (Computer Science Track) and a classically trained violinist. For my thesis at the AI & Learning Systems Lab, I'm bringing these two worlds together by using audio transformers for emotion classification in expressive violin performances. Beyond audio deep learning, I'm deeply passionate about broader AI/ML and building full-stack products.
 ## Tech Stack
