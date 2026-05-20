@@ -38,7 +38,7 @@ MySQL | Docker | Linux | Git
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [🔍 LLM Text-to-SQL] | Benchmarked LLMs for natural-language DB querying — proved >90% executability with a code-specialised model | Python · HuggingFace · Docker |
+| 🔍 LLM Text-to-SQL | Benchmarked LLMs for natural-language DB querying — proved >90% executability with a code-specialised model | Python · HuggingFace · Docker |
 | 🏛️ Monumental | Android sightseeing app with real-time landmark recognition and LLM-powered descriptions | Flutter · Firebase · Google APIs |
 | 🎵 Festival DB | Multi-venue festival management system with complex DB constraints and a fair-queue resale system | MySQL · Next.js · React |
 | ☁️ clearSKY | Academic grade-review SaaS platform built with microservices and delivered across 3 Scrum sprints | React · Node.js · Docker |
